@@ -30,10 +30,10 @@ Some libraries used in the project might have become obselete. So, Update them i
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/mohancm/ScoreKeeperApp/blob/master/screenshots/Screenshot_Score_Keeper_20180620-105115.png" 
-height="420" width="240" hspace="20"><img src="https://github.com/mohancm/ScoreKeeperApp/blob/master/screenshots/Screenshot_Score_Keeper_20180622-001426.png" 
-height="420" width="240" hspace="20"><img src="https://github.com/mohancm/ScoreKeeperApp/blob/master/screenshots/Screenshot_Score_Keeper_20180622-001436.png" 
-height="420" width="240" hspace="20"><img src="https://github.com/mohancm/ScoreKeeperApp/blob/master/screenshots/Screenshot_Score_Keeper_20180622-001442.png" 
+<img src="https://github.com/Shubhraaaj/ScoreKeepr/blob/master/app/src/main/res/drawable/splash_screen.png" 
+height="420" width="240" hspace="20"><img src="https://github.com/Shubhraaaj/ScoreKeepr/blob/master/app/src/main/res/drawable/score_screen.png" 
+height="420" width="240" hspace="20"><img src="https://github.com/Shubhraaaj/ScoreKeepr/blob/master/app/src/main/res/drawable/score_sreen_2.png" 
+height="420" width="240" hspace="20"><img src="https://github.com/Shubhraaaj/ScoreKeepr/blob/master/app/src/main/res/drawable/winner_dialog.png"
 height="420" width="240" hspace="20">
  
 <h2> License </h2>
